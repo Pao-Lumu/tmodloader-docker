@@ -1,8 +1,8 @@
-# tModLoader Docker ![tMod Version] ![Terraria Version]  [![Docker Pulls]][0]
+<!-- # tModLoader Docker ![tMod Version] ![Terraria Version]  [![Docker Pulls]][0] -->
 
 [tModLoader] dedicated server  
 
-Terraria server 1.3.5.3 with tModLoader v0.11.7.8.
+Terraria server 1.3.5.3 with tModLoader v0.11.8.7.
 
 Supports graceful shutdown (saves when the container receives a stop command) and also supports autosaving every 10 minutes (configurable, see [Environment Variables] below).
 
